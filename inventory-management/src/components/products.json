@@ -1,0 +1,23 @@
+[
+    { "id": 1, "name": "Laptop", "price": 60000, "image": "https://cdn.thewirecutter.com/wp-content/media/2024/07/laptopstopicpage-2048px-3685-3x2-1.jpg?auto=webp&quality=75&crop=1:1,smart&width=1024" },
+    { "id": 2, "name": "Smartphone", "price": 25000, "image": "https://m.media-amazon.com/images/I/51AHHmX-17L.jpg" },
+    { "id": 3, "name": "Headphones", "price": 2000, "image": "https://m.media-amazon.com/images/I/41wpl0J62eL._SX300_SY300_QL70_FMwebp_.jpg" },
+    { "id": 4, "name": "Monitor", "price": 15000, "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/peripherals/monitors/p-series/p2425h/mg/monitor-p2425h-black-gallery-1.psd?fmt=pjpg&pscan=auto&scl=1&wid=4459&hei=3927&qlt=100,1&resMode=sharp2&size=4459,3927&chrss=full&imwidth=5000" },
+    { "id": 5, "name": "Keyboard", "price": 1500, "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/keyboard/gaming-keyboard/5/c/t/gaming-keyboard-rpm-euro-hames-original-imaggjk7rph6ft8z.jpeg?q=20&crop=false" },
+    { "id": 6, "name": "Mouse", "price": 1000, "image": "https://m.media-amazon.com/images/I/31qJ7qfj-9L._SX300_SY300_QL70_FMwebp_.jpg" },
+    { "id": 7, "name": "Tablet", "price": 30000, "image": "https://m.media-amazon.com/images/I/21xEtKLB9XL._SY300_SX300_QL70_FMwebp_.jpg" },
+    { "id": 8, "name": "Smartwatch", "price": 10000, "image": "https://m.media-amazon.com/images/I/41ge+ug0wdL._SY300_SX300_.jpg" },
+    { "id": 9, "name": "Camera", "price": 50000, "image": "https://shopatsc.com/cdn/shop/products/ILCE-6400L-01_1024x1024@2x.jpg?v=1721365822" },
+    { "id": 10, "name": "Printer", "price": 12000, "image": "https://printer.kalimstores.com/wp-content/uploads/20pum_mgl_black_04_2.jpg.jpg" },
+    { "id": 11, "name": "Speakers", "price": 5000, "image": "https://shopatsc.com/cdn/shop/files/SRS-XV500-2500x2500-1.jpg?v=1708081769" },
+    { "id": 12, "name": "Power Bank", "price": 2500, "image": "https://rukminim2.flixcart.com/image/850/1000/k7z3afk0/power-bank/r/c/y/pb-x12-built-in-10000mah-dual-usb-power-bank-pb-x12-power-king-original-imafq39fxegyj7wq.jpeg?q=20&crop=false" },
+    { "id": 13, "name": "External HDD", "price": 6000, "image": "https://m.media-amazon.com/images/I/31eoX3Q+I5L._SX300_SY300_.jpg" },
+    { "id": 14, "name": "SSD", "price": 7000, "image": "https://m.media-amazon.com/images/I/31zjjsOHdLL._SX300_SY300_QL70_FMwebp_.jpg" },
+    { "id": 15, "name": "Router", "price": 3500, "image": "https://m.media-amazon.com/images/I/316ALhdh2rL._SY300_SX300_QL70_FMwebp_.jpg" },
+    { "id": 16, "name": "TV", "price": 40000, "image": "https://m.media-amazon.com/images/I/71Hu0MLbxqL._SX679_.jpg" },
+    { "id": 17, "name": "Gaming Console", "price": 50000, "image": "https://m.media-amazon.com/images/I/51Kumm2y2mL._SX300_SY300_QL70_FMwebp_.jpg" },
+    { "id": 18, "name": "Microphone", "price": 8000, "image": "https://shopatsc.com/cdn/shop/files/1_361ad5c7-9abb-4424-89c4-cad18d78ad4a_1024x1024@2x.jpg?v=1715773298" },
+    { "id": 19, "name": "Tripod", "price": 2500, "image": "https://m.media-amazon.com/images/I/41Fm0YcrDqL._SX300_SY300_QL70_FMwebp_.jpg" },
+    { "id": 20, "name": "VR Headset", "price": 30000, "image": "https://m.media-amazon.com/images/I/415rxhzdmDL._SX300_SY300_QL70_FMwebp_.jpg" }
+  ]
+  
